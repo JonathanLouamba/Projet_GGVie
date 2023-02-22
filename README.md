@@ -10,6 +10,7 @@ Les données utilisées pour ce cas d'étude sont fournies sous la forme de fich
 - Fichier stock des entreprises (ensemble des entreprises actives et cessées dans leur état courant au répertoire)
 - Fichier stock des valeurs historisées des entreprises (pour toutes les entreprises, ensemble des valeurs de certaines variables historisées dans le répertoire Sirene)
 - Fichier contenant les liens de succession des entreprises  (prédécesseurs et successeurs des établissements)
+- Un dataset infogreffe nommé “Chiffres clés 2022”, et contenant 113 103 enregistrements d’entreprises pour toute la France
 
 ## Analyse des données
 Nous avons commencé par une analyse exploratoire des données pour mieux comprendre la nature des données et déterminer les caractéristiques clés de l'ensemble de données. Cette analyse a inclus des étapes telles que la visualisation de la distribution des établissements par année de création et de fermeture, ou l'analyse des activités principales des établissements et leur évolution dans le temps par exemple.
